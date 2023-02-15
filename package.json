@@ -1,0 +1,24 @@
+{
+  "name": "miniwebpack",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/parser": "^7.20.7",
+    "@babel/traverse": "^7.20.12",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "ejs": "^3.1.8",
+    "pnpm": "^7.22.0"
+  }
+}
